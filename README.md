@@ -5,8 +5,7 @@
 
 My name is SilverWolf and I'm a America developer. I'm here on GitHub to:
 - Share my codes;
-- Learn more about front-end technologies;
-- Contribute to third-party projects;
+- Contribute to projects;
 - Get inspiration and new ideas!
 
 Feel free to visit [my repositories](https://github.com/SilverWolfOfficial?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
